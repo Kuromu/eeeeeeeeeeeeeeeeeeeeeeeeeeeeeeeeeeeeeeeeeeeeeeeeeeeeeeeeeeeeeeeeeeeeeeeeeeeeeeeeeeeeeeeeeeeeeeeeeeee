@@ -1,5 +1,4 @@
-using System;
-
+using EEEEEEEEEE = System.Console;
 namespace e
 {
     class E
@@ -10,7 +9,7 @@ namespace e
         {
             while (e)
             {
-                Console.Write('e');
+                EEEEEEEEEE.Write('e');
             }
         }
     }
